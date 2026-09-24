@@ -1,5 +1,5 @@
 # Visualize Neural Networks
-An interactive webapp for visualizing the working and calculations inside artificial neural networks 
+An interactive webapp for visualizing the working and calculations inside artificial neural networks<br>
 Link: https://sath-wick.github.io/interactive-ann/
 ## Features
 - Start with 3 input nodes and add up to 5 total.
